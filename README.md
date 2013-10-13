@@ -3,6 +3,6 @@
 ## Installation
 
 ```
-brew tap ecanuto/mono
+brew tap filsinger/homebrew-mono
 brew install mono
 ```
